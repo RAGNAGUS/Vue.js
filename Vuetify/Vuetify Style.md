@@ -1,4 +1,4 @@
-Edit file to see all of the code.
+<---------- Edit file to see all of the code ---------->
 <p class="red white--text">	Lorem ipsum dolor sit amet.</p>
 <p class="pink lighten-4 red--text text--darken-4">Lorem ipsum dolor sit amet.</p>
 <h1 class="display-4">Massive Display</h1>
