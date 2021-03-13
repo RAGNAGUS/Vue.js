@@ -37,3 +37,12 @@
       <v-icon small>mdi-home</v-icon>
     </v-btn>
   </div>
+  
+  <----- Material Design Breakpoints ----->
+  <div class="home">
+    <v-btn class="hidden-md-and-down">Hide since Medium and Lower</v-btn>
+
+    <v-btn class="hidden-md-and-up">Hide since Medium and Upper</v-btn>
+
+    <v-btn class="hidden-sm-only">Hide when Small</v-btn>
+  </div>
