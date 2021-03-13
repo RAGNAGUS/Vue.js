@@ -36,6 +36,11 @@
     <v-btn fab depressed small dark class="purple">
       <v-icon small>mdi-home</v-icon>
     </v-btn>
+    
+    <v-btn text color="grey">
+        <span>Sign Out</span>
+        <v-icon right>mdi-exit-to-app</v-icon>
+    </v-btn>
   </div>
   
   <----- Material Design Breakpoints ----->
