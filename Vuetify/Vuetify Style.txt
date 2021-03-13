@@ -1,4 +1,4 @@
-<---------- Edit file to see all of the code ---------->
+<---------- Vuetify Style ---------->
 
 <----- Text and Color ----->
 <p class="red white--text">	Lorem ipsum dolor sit amet.</p>
